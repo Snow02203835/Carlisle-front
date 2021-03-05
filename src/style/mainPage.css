@@ -1,0 +1,123 @@
+.cover-card{
+    width: 900px;
+    height: 410px;
+    margin-top: 20px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: azure;
+}
+.coverImg{
+    width: 880px;
+    height: 330px;
+    left: 10px;
+    top: 10px;
+    position: absolute;
+}
+.avatarBox{
+    width: 300px;
+    height: 300px;
+    left: 60px;
+    top: 80px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: aliceblue;
+}
+.avatarImg{
+    width: 290px;
+    height: 290px;
+    left: 5px;
+    top: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+}
+.userName{
+    left: 350px;
+    top: 350px;
+    font-size: 2.0rem;
+    position: absolute;
+}
+.shortcutFlame{
+    width: 450px;
+    height: 100px;
+    margin-top: 460px;
+    margin-left: 60px;
+    position: absolute;
+    background-color: azure;
+}
+.shortcutBox{
+    width: 70px;
+    height: 70px;
+    top: 15px;
+    cursor: pointer;
+    position: absolute;
+}
+.shortcut{
+    width: 50px;
+    height: 50px;
+    left: 10px;
+    position: absolute;
+    border: none;
+}
+.shortcutText{
+    top: 45px;
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    position: absolute;
+}
+.statusShortcutBox{
+    left: 60px;
+}
+.pictureShortcutBox{
+    left: 190px;
+}
+.storyShortcutBox{
+    left: 330px;
+}
+.visitorFlame{
+    width: 420px;
+    height: 100px;
+    margin-top: 440px;
+    margin-left: 600px;
+    position: absolute;
+    background-color: azure;
+}
+.visitorText{
+    left: 10px;
+    top: 5px;
+    position: absolute;
+}
+.visitorNum{
+    left: 75px;
+    top: 5px;
+    position: absolute;
+}
+.visitorBox{
+    width: 50px;
+    height: 50px;
+    left: 10px;
+    top: 35px;
+    position: absolute;
+}
+.messageFlame{
+    width: 450px;
+    height: 60px;
+    margin-top: 560px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: azure;
+}
+.lookText{
+    left: 15px;
+    top: 15px;
+    position: absolute;
+}
+.historyText{
+    left: 47px;
+    top: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+    color: darkturquoise;
+    position: absolute;
+}

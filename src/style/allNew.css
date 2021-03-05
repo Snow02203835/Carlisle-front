@@ -1,0 +1,89 @@
+.newCardHead{
+    width: 95%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.newCard{
+    width: 95%;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.searchText{
+    width: 90%;
+    height: 50px;
+    font-size: 1.8rem;
+}
+.addMemberButton{
+    top: -10%;
+    right: 10%;
+}
+.searchAreaText{
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 1.1rem;
+}
+.searchInput{
+    margin-left: 20px;
+    width: 50px;
+}
+.searchButton{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.newEventBox{
+    width: 100%;
+    /*background-color: cadetblue;*/
+}
+.ownerAvatar{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 0.5rem;
+}
+.ownerName{
+    width: 100px;
+    margin-left: 22px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.contentBox{
+    width: 100%;
+    margin-left: 80px;
+    margin-top: 5px;
+    border: 1px;
+}
+.mainContent{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 1.1rem;
+    border:1px solid silver;
+    border-radius: 0.5rem;
+}
+.operationBox{
+    width: 60%;
+    margin-left: 222px;
+    margin-top: 5px;
+}
+.newCardFooter{
+    width: 95%;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.searchResultItemAvatar{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.searchResultItemUserName{
+    font-size: 1.2rem;
+    margin-top: 3px;
+}
+.commentVisible{
+    display: none;
+}
+.cardVisible{
+    display: none;
+}
